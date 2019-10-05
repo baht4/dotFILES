@@ -5,6 +5,12 @@ set laststatus=2
 set t_Co=256
 set rnu
 
+set nocompatible
+
 execute pathogen#infect()
+
+" enable syntax and plugin (for netrw)
 syntax on
 filetype plugin indent on
+
+
