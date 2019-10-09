@@ -13,3 +13,5 @@ neofetch
 ## ALIAS 
 alias ls="ls --color=always"  #biar ls-nya berwarna 
 
+## 
+export XAUTHORITY=~/.Xauthority
